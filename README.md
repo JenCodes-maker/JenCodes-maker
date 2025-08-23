@@ -32,7 +32,7 @@
 
 - 📫 How to reach me *jennifergunasekaran@gmail.com*
 
-- ⚓ <a href="https://github.com/JenCodes-maker/raw/main/Jennifer G.pdf" download>
+- ⚓ <a href="https://github.com/JenCodes-maker/JenCodes-maker/raw/main/Jennifer G.pdf" download>
    <button>Download Resume</button>
 </a>
 <br>
