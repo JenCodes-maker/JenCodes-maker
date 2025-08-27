@@ -43,7 +43,7 @@
 <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs"/>
-   <!-- redux,bootstrap,express,jquery,materialui,mongodb  -->
+   <!-- redux,bootstrap,express,jquery,materialui,mongodb  --->
   </a>
 </p>
 
