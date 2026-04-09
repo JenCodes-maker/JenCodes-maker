@@ -1,4 +1,4 @@
-e<img align="center" src='C:\Users\vthan\OneDrive\Desktop\Code_practices\1.jpg' />
+<img align="center" src='C:\Users\vthan\OneDrive\Desktop\Code_practices\1.jpg' />
 
 <h1 align="center">Hi there! I'm Jennifer G <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br> 
