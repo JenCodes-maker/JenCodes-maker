@@ -1,4 +1,4 @@
-<img align="center" src='C:\Users\vthan\OneDrive\Desktop\Code_practices\1.jpg' />
+e<img align="center" src='C:\Users\vthan\OneDrive\Desktop\Code_practices\1.jpg' />
 
 <h1 align="center">Hi there! I'm Jennifer G <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br> 
@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 About Me: 
 <!-- <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-       height="200px" width="auto" align="right"  />  ------->
+       height="200px" width="auto" align="right"  />  ---->
   <img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l06umvnncegq4h2aklpuxyqjt8c69rd96evrta7e&rid=giphy.gif&ct=g" height="280px" align="right"  />
       
 - 🙋‍♂️ All about me is at **[Website](https://my-portfolio-beryl-seven-32.vercel.app/)**
